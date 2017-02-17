@@ -13,7 +13,7 @@ mobile applications.
 How to Use
 ==========
 
-1. Copy sdk.php class file to your local or server file system
+1. Copy sdk.js class file to your local or server file system
 2. Instantiate ```VRClient``` class as follows -
     ```
     clientInstance = new VRClient(userID, apiKey);
