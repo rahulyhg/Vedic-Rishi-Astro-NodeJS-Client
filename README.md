@@ -1,4 +1,3 @@
-# VRClient
 
 Vedic-Rishi-Astro-API-NodeJS-Client
 ================================
